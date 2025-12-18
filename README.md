@@ -21,3 +21,7 @@
 <a width="30%"><img alt="gif"  width="400px" src="./static/callmesho.png"/></a>
 </p>
 
+
+-------------------------------------------------
+My CV here: [HoangSon-Vo_CV](CV_HoangSonVo.pdf)
+
